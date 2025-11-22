@@ -1,3 +1,6 @@
+<!-- Write a program to count the total number of times a specific
+value appears in an array -->
+
 <?php
 // Create an array
 $numbers = array(10, 20, 30, 10, 40, 10, 50, 20, 10);

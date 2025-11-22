@@ -1,3 +1,5 @@
+<!-- Create an associative array and display its elements -->
+
 <?php
 // Create an associative array
 $student = array(

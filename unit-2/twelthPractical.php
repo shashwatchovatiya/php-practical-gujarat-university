@@ -1,3 +1,7 @@
+<!-- Write a program in PHP to demonstrate the use of
+multidimensional arrays. 
+ -->
+
 <!-- <?php
 $MulƟ = array(
  array(

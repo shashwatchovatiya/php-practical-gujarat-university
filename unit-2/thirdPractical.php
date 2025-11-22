@@ -1,3 +1,5 @@
+<!-- Write a PHP script to retrieve and display the value of the
+session variable "loginid".  -->
 <?php
 // Start the session
 session_start();

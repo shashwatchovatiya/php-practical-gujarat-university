@@ -1,3 +1,5 @@
+<!-- Write a program in PHP to sort the array of given 5 numbers in
+ascending and descending order -->
 <?php
 // Create an array with 5 numbers
 $numbers = array(45, 12, 78, 34, 23);

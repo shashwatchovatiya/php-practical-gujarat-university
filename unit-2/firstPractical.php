@@ -1,3 +1,7 @@
+<!-- Write a PHP script to set a cookie named "username" with the
+value "Welcome" with an expiration time of one hour and
+display its value.  -->
+
 <!-- <!DOCTYPE html>
 <?php
 $cookie_name = "username";

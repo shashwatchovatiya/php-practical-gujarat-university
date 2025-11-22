@@ -1,3 +1,6 @@
+<!-- Write a PHP program that checks whether the element is exists
+in the array or not. Give acknowledgement from the same.  -->
+
 <?php
 // Create an array
 $fruits = array("Apple", "Banana", "Orange", "Mango", "Grapes");

@@ -1,3 +1,8 @@
+<!-- Create two functions in PHP, parameterized and non
+parameterized for implementing string concatenation
+operation. 
+ -->
+
 <?php
 // Non-parameterized function
 function concatStringsNonParam() {

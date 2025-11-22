@@ -1,3 +1,8 @@
+<!-- Create an array named $student that stores 5 elements
+bounded to different keys and access the same using the key
+element. 
+ -->
+
 <?php
 // Create associative array
 $student = array(

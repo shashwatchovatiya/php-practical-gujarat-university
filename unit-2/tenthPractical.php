@@ -1,3 +1,8 @@
+<!-- Create an array named $sub, assign five elements to it and
+display the elements assigned using for loop and foreach
+statement  -->
+
+
 <?php
 // Create an array with 5 subjects
 $sub = array("Maths", "Science", "English", "History", "Computer");

@@ -1,3 +1,5 @@
+<!-- Create an array with 5 elements and print all array elements -->
+
 <!-- <?php
 // Create an empty array
 $numbers = array();

@@ -1,3 +1,5 @@
+<!-- Write a PHP script to delete a cookie named "welcome".  -->
+
 <!DOCTYPE html>
 <?php
 // Delete the "welcome" cookie by setting its expiration time in the past

@@ -1,3 +1,4 @@
+<!-- Create an array with 5 elements. Find and display minimum and maximum value from the array.  -->
 <?php
 // Create an array with 5 elements
 $numbers = array(25, 80, 12, 45, 67);
